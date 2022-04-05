@@ -1,0 +1,85 @@
+#name {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+#basic-title {
+  color: balck;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#basic-information {
+  display: flex;
+  justify-content: center;
+}
+
+#photo {
+  width: auto;
+  height: auto;
+  margin-right: 4rem;
+  max-height: 300px;
+}
+#information {
+  display: inline-block;
+  padding: 2rem;
+}
+
+.default {
+  background-color: beige;
+  padding: 4rem;
+  margin: 3rem;
+  border-radius: 4rem;
+}
+
+li {
+  font-size: 20px;
+}
+
+#introduction-title {
+  text-align: center;
+}
+
+#self {
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+#tech-title {
+  text-align: center;
+}
+
+.tech-list {
+  margin: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  float: left;
+}
+
+.tech {
+  background-color: beige;
+  padding: 4rem;
+  margin: 3rem;
+  border-radius: 4rem;
+}
+
+.photo {
+  width: auto;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.list-center {
+  vertical-align: middle;
+  display: table-cell;
+}
+
+html {
+  background-color: #c5d5c5;
+}
